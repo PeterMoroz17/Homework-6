@@ -1,0 +1,68 @@
+[
+  {
+    "links": [
+      "https://www.bbc.com/sport/football/teams/argentina",
+      "https://www.bbc.com/sport/football/teams/chelsea",
+      "https://www.bbc.com/sport/football/premier-league",
+      "https://www.bbc.com/sport/football/teams/france",
+      "https://www.bbc.com/sport/football"
+    ],
+    "titles": [
+      "Argentina",
+      "Chelsea",
+      "Premier League",
+      "France",
+      "Football"
+    ]
+  },
+  {
+    "links": [
+      "https://www.bbc.com/sport/athletics",
+      "https://www.bbc.com/sport/africa",
+      "https://www.bbc.com/sport/olympics"
+    ],
+    "titles": [
+      "Athletics",
+      "Africa Sport",
+      "Paris 2024 Olympics"
+    ]
+  },
+  {
+    "links": [
+      "https://www.bbc.com/sport/football/teams/chelsea",
+      "https://www.bbc.com/sport/football/premier-league",
+      "https://www.bbc.com/sport/football"
+    ],
+    "titles": [
+      "Chelsea",
+      "Premier League",
+      "Football"
+    ]
+  },
+  {
+    "links": [
+      "https://www.bbc.com/sport/cricket/teams/england",
+      "https://www.bbc.com/sport/cricket/teams/west-indies",
+      "https://www.bbc.com/sport/cricket"
+    ],
+    "titles": [
+      "England Men's Cricket Team",
+      "West Indies",
+      "Cricket"
+    ]
+  },
+  {
+    "links": [
+      "https://www.bbc.com/sport/football/teams/manchester-united",
+      "https://www.bbc.com/sport/football/teams/marseille",
+      "https://www.bbc.com/sport/football/premier-league",
+      "https://www.bbc.com/sport/football"
+    ],
+    "titles": [
+      "Manchester United",
+      "Marseille",
+      "Premier League",
+      "Football"
+    ]
+  }
+]
